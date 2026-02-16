@@ -1,0 +1,5 @@
+text
+
+yfinance
+requests
+matplotlib
